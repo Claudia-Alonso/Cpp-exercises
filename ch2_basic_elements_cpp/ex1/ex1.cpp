@@ -12,16 +12,13 @@ void starPrinter (){
 
 int main() {
 
-    // for(int i=0; i<42; i++){
-    //     cout << "*";
-    // }
     starPrinter();
     
     cout << "*\t Programming Assignment 1\t *" << endl;
     cout << "*\t  Computer Programming I\t *" << endl;
     cout << "*\t  Author: Claudia Alonso\t *" << endl;
     cout << "*\t Due Date: Sunday, 2nd May\t *" << endl;
-    
+
     starPrinter();
 
     return 0;
